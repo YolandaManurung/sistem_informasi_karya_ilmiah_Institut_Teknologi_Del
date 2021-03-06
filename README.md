@@ -1,1 +1,5 @@
-# Sistem-Informasi-Karya-Ilmiah-IT-Del
+# Sistem Informasi Karya Ilmiah IT Del
+
+Karya ilmiah adalah karangan yang berisi gagasan ilmiah yang disajikan secara ilmiah serta menggunakan bentuk dan bahasa ilmiah. Adapun jenis-jenis dari karya ilmiah yaitu paper, jurnal, PKM, artikel, tesis, disertasi, dan prosiding.
+Saat ini sistem informasi karya ilmiah di IT Del masih sederhana karena hanya admin yang dapat mengelola sistem tersebut, sedangkan user lain tidak dapat menggunakan sistem tersebut. Apabila user ingin karya ilmiahnya dipublikasikan, maka user harus memberikan karya ilmiahnya terlebih dahulu kepada admin agar admin yang melakukan publikasi karya ilmiah dari user.
+Melihat permasalahan diatas, maka tim akan membangun sistem yang dapat memudahkan mahasiswa, dosen, dan TA (Teaching Assistant) dalam mendapatkan informasi mengenai karya ilmiah dan melakukan publikasi karya ilmiah mereka kepada admin. Sistem ini juga akan membantu admin untuk melakukan pengelolaan terhadap berbagai jenis karya ilmiah yang ada di IT Del agar lebih terstruktur dan dapat menjadi informasi dan referensi bagi setiap pemakainya. Sistem ini juga akan memberikan panduan penggunaan sistem kepada user sesuai dengan fungsionalitas masing-masing user. 
